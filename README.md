@@ -1,5 +1,5 @@
 # dsci510-lab1
-## Hi All, this is lab1 submission from Yifeng Shi 
+## Hi all, this is the lab1 submission from Yifeng Shi 
 
 ## Prerequisites:
 * Python3
